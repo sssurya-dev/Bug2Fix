@@ -1,0 +1,32 @@
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment
+.env
+.env.local
+.venv
+venv/
+env/
+
+# Bug2Fix generated
+.bug2fix_pytest_report.json
+*.bug2fix_backup
+reports/*.md
+reports/*.json
+!reports/.gitkeep
+
+# Dev artifacts
+.deps_installed
+e2e_check.py
+*.egg-info/
+dist/
+build/
+.tox/
+.mypy_cache/
+.pytest_cache/
+
+# OS
+*.log
+.DS_Store
+Thumbs.db

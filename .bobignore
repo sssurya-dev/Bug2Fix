@@ -1,0 +1,34 @@
+# IBM Bob Ignore Patterns for Bug2Fix AI
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments & secrets
+.env
+.env.*
+.venv/
+venv/
+env/
+
+# Pytest & caches
+.pytest_cache/
+.mypy_cache/
+.bug2fix_pytest_report.json
+*.bug2fix_backup
+
+# Generated run reports
+reports/*.md
+reports/*.json
+!reports/.gitkeep
+
+# Logs & temp files
+*.log
+.deps_installed
+e2e_check.py
+
+# OS metadata
+.DS_Store
+Thumbs.db
