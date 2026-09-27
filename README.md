@@ -200,7 +200,7 @@ streamlit run app/main.py
 ## Installation
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/sssurya-dev/Bug2Fix.git
 cd bug2fix-ai
 pip install -r requirements.txt
 ```
@@ -343,12 +343,10 @@ bug2fix-ai/
 
 ## Team
 
-| Member | Role |
-|--------|------|
-| Surya S S | Team Lead / Architecture |
-| Nithin Pranav K | AI Agent Design |
-| Sharan Pranav K | Backend / Testing |
-| Hari Kishor G | UI / Demo |
+* Surya S S — Team Lead / Architecture
+* Nithin Pranav K — AI Agent Design
+* Sharan Pranav K — Backend / Testing
+* Hari Kishor G — UI / Demo
 
 ---
 

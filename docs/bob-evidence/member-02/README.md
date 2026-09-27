@@ -1,19 +1,17 @@
-# Member 02 — Bob Evidence
+# Bob Evidence — Member 02
 
-Place your IBM Bob 2.0 task-session screenshot(s) in this folder.
+- **Team Member**: Nithin Pranav K
+- **Role**: AI Agent & Parallel Workflow Designer
+- **Expected File**: `bob-session-summary.png`
 
-See [`../README.md`](../README.md) for full instructions.
+## Status
 
----
-
-**Member:** Nithin Pranav K
-
-**Role:** AI Agent Design
-
-**Bob tasks completed:**
-- [ ] Screenshot 1: `bob-evidence-member-02-task-1.png`
-- [ ] Screenshot 2: `bob-evidence-member-02-task-2.png` (optional)
-
----
-
-*Screenshots not yet submitted. Add `.png` or `.jpg` files here before submission.*
+> **ACTION REQUIRED**: The actual IBM Bob 2.0 task-session summary screenshot must be added here.
+> 
+> Save the real screenshot as:
+> `docs/bob-evidence/member-02/bob-session-summary.png`
+> 
+> **Guidelines**:
+> - Must show the completed session summary in the IBM Bob UI for Nithin Pranav K.
+> - Do not include passwords, API keys, tokens, or personal credentials.
+> - Do not submit synthetic or fabricated images.

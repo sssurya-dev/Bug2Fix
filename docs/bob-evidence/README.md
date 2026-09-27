@@ -1,50 +1,34 @@
-# Bug2Fix AI — Bob Evidence
+# Bug2Fix AI — IBM Bob Evidence Pack
 
-This directory contains IBM Bob 2.0 task-session evidence for each team member.
+## Purpose
 
-## Instructions
+This directory contains verified IBM Bob 2.0 task-session evidence for the Bug2Fix AI hackathon submission. Each team member is required to provide an authentic screenshot of a completed IBM Bob task-session summary demonstrating meaningful usage of Bob in Agent mode.
 
-Each team member should:
+## Member Folder Mapping
 
-1. Complete at least one meaningful Bob task session using Bob in Agent mode, demonstrating use of Bob's capabilities on the Bug2Fix AI project.
-2. Capture a screenshot of the completed task summary — the session tile showing the task title and completion summary shown in the Bob UI after the task is done.
-3. Place the screenshot(s) in your member folder:
+The evidence folders map directly to the four team members:
 
-```
-docs/bob-evidence/
-├── member-01/   ← Place your screenshot(s) here
-├── member-02/   ← Place your screenshot(s) here
-├── member-03/   ← Place your screenshot(s) here
-└── member-04/   ← Place your screenshot(s) here
-```
+| Folder | Team Member | Primary Role | Expected File |
+|---|---|---|---|
+| [`member-01/`](./member-01/) | **Surya S S** | Team Lead / Architecture | `bob-session-summary.png` |
+| [`member-02/`](./member-02/) | **Nithin Pranav K** | AI Agent & Workflow Design | `bob-session-summary.png` |
+| [`member-03/`](./member-03/) | **Sharan Pranav K** | Backend & Test Automation | `bob-session-summary.png` |
+| [`member-04/`](./member-04/) | **Hari Kishor G** | UI/UX & Demo Preparation | `bob-session-summary.png` |
 
-## What to Capture
+## Required Evidence File Format
 
-Good examples of Bob tasks to demonstrate:
+For each member:
+- **Filename**: `bob-session-summary.png`
+- **Location**: Inside each member's directory (`docs/bob-evidence/member-0X/bob-session-summary.png`)
+- **Content**: An actual, unedited screenshot of the IBM Bob task-session tile/summary showing:
+  - The IBM Bob 2.0 UI
+  - The task prompt or title
+  - The completed status and summary produced by Bob
+  - Visible project context related to Bug2Fix AI
 
-- Asking Bob to review `core/orchestrator.py` and suggest improvements
-- Asking Bob to write a new test for `core/evidence_ledger.py`
-- Asking Bob to analyze the sample project bug and explain root cause
-- Asking Bob to review the security module (`core/security.py`)
-- Asking Bob to explain the parallel agent architecture
-- Asking Bob to help debug a specific function
+## Evidence Authenticity & Security Guidelines
 
-## Screenshot Format
-
-Each screenshot should show:
-
-- The Bob task session tile (title + summary)
-- The completed status
-- Your name or user identifier visible if possible
-
-Acceptable formats: `.png`, `.jpg`, `.jpeg`, `.webp`
-
-## What NOT to Submit
-
-- Do not fabricate or edit screenshots
-- Do not submit screenshots showing sensitive credentials or API keys
-- Do not submit screenshots from a non-Bob tool
-
----
-
-*Bug2Fix AI — IBM Bob 2.0 Hackathon 2026*
+> **IMPORTANT**:
+> - **DO NOT FABRICATE SCREENSHOTS**: Simulated, AI-generated, or edited screenshots are strictly prohibited.
+> - **ZERO SENSITIVE DATA**: Screenshots must not expose API keys, passwords, bearer tokens, IBM Cloud credentials, personal identifiers, or machine paths.
+> - **STATUS**: If a real screenshot has not yet been added, the folder is preserved with documentation that the real screenshot must be added by the respective team member before final judging.

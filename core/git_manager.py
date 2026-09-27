@@ -41,6 +41,8 @@ def _run_git(args: list[str], cwd: Path, timeout: int = 15) -> tuple[str, str, i
             cwd=str(cwd),
             capture_output=True,
             text=True,
+            encoding="utf-8",
+            errors="replace",
             timeout=timeout,
         )
         # Note: do NOT strip stdout — git status --porcelain uses leading spaces

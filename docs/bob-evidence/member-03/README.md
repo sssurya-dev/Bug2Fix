@@ -1,19 +1,17 @@
-# Member 03 — Bob Evidence
+# Bob Evidence — Member 03
 
-Place your IBM Bob 2.0 task-session screenshot(s) in this folder.
+- **Team Member**: Sharan Pranav K
+- **Role**: Backend Infrastructure & Automated Testing
+- **Expected File**: `bob-session-summary.png`
 
-See [`../README.md`](../README.md) for full instructions.
+## Status
 
----
-
-**Member:** Sharan Pranav K
-
-**Role:** Backend / Testing
-
-**Bob tasks completed:**
-- [ ] Screenshot 1: `bob-evidence-member-03-task-1.png`
-- [ ] Screenshot 2: `bob-evidence-member-03-task-2.png` (optional)
-
----
-
-*Screenshots not yet submitted. Add `.png` or `.jpg` files here before submission.*
+> **ACTION REQUIRED**: The actual IBM Bob 2.0 task-session summary screenshot must be added here.
+> 
+> Save the real screenshot as:
+> `docs/bob-evidence/member-03/bob-session-summary.png`
+> 
+> **Guidelines**:
+> - Must show the completed session summary in the IBM Bob UI for Sharan Pranav K.
+> - Do not include passwords, API keys, tokens, or personal credentials.
+> - Do not submit synthetic or fabricated images.
