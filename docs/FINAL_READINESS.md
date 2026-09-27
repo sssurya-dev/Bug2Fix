@@ -61,7 +61,7 @@ The following actions require human team credentials, manual uploads, or live pl
 |---|--------|------------------------|
 | 1 | **Add actual IBM Bob session screenshots** | Place real task-session screenshots for each of the 4 team members into `docs/bob-evidence/member-0{1-4}/` as detailed in `docs/bob-evidence/README.md`. |
 | 2 | **Add final UI screenshots** | Capture and embed live UI screenshots into the Screenshots section of `README.md`. |
-| 3 | **Configure Git remote & push** | If remote is not yet set, add your GitHub/GitLab remote (`git remote add origin <url>`) and push (`git push -u origin main`). |
+| 3 | **Git remote configured & pushed** | **[COMPLETED]** Pushed to `https://github.com/sssurya-dev/Bug2Fix.git` on branch `main`. |
 | 4 | **Perform final live demo** | Rehearse using `docs/demo-script.md` on the sample project before judges/recording. |
 | 5 | **Record and upload video** | Record a 3-minute video demonstration following `docs/demo-script.md` and upload to YouTube/Loom. |
 | 6 | **Upload cover image** | Create and upload the project cover image on the hackathon submission portal. |
